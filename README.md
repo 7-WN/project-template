@@ -46,6 +46,7 @@ De eenvoudigste manier om deze code te gebruiken is het zip-bestand downloaden e
 ## Referenties
 
 -   [EditorConfig](http://editorconfig.org/)
+-   [JS Beautify](https://github.com/beautify-web/js-beautify)
 
 ## Meewerken aan de template
 
@@ -54,6 +55,10 @@ De eenvoudigste manier om deze code te gebruiken is het zip-bestand downloaden e
 ## Versies
 
 We gebruiken [SemVer](http://semver.org/) voor versienummers. Bekijk de [tags in deze repository](https://github.com/7-WN/website-template/tags) voor de beschikbare versies.
+
+## Changelog
+
+[TODO]
 
 ## Auteurs
 
