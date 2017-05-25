@@ -1,6 +1,6 @@
 # Website template
 
-**Project template voor websites (HTML/CSS/Javascript) in [Webontwikkeling en Netwerkbeheer aan het Scheppersinstituut Deurne & Antwerpen](http://7wn.be/)**
+**Project template voor websites (HTML/CSS/JavaScript) in [Webontwikkeling en Netwerkbeheer aan het Scheppersinstituut Deurne & Antwerpen](http://7wn.be/)**
 
 Je kan deze template gebruiken als startpunt voor al je 'platte' websites die geen back-end nodig hebben. Zo voldoe je moeiteloos aan een aantal belangrijke 'Best Practices' en wordt je text editor geconfigureerd volgens onze afspraken.
 
@@ -9,12 +9,15 @@ Je kan deze template gebruiken als startpunt voor al je 'platte' websites die ge
 ### Vereisten
 
 -   Je moet een degelijke, moderne text editor gebruiken. Wij gebruiken [Atom](https://atom.io/) met minimaal de volgende plugins of packages geïnstalleerd:
-    -   [atom-beautify](https://atom.io/packages/atom-beautify) met `Beautify on Save` geactiveerd voor CSS, HTML, Javascript, Markdown en SCSS. Voor CSS en SCSS selecteer je `CSScomb` als `Default Beautifier`, voor  Markdown selecteer je `Remark`.
+    -   [atom-beautify](https://atom.io/packages/atom-beautify) met `Beautify on Save` geactiveerd voor CSS, HTML, Markdown en SCSS. Voor CSS en SCSS selecteer je `CSScomb` als `Default Beautifier`, voor  Markdown selecteer je `Remark`.
+    -   [atom-standard-formatter](https://atom.io/packages/standard-formatter) met `Format On Save` geactiveerd.
     -   [editorconfig](https://atom.io/packages/editorconfig)
     -   [linter](https://atom.io/packages/linter)
     -   [linter-htmlhint](https://atom.io/packages/linter)
     -   [linter-stylelint](https://atom.io/packages/linter-stylelint)
     -   [linter-eslint](https://atom.io/packages/linter-eslint)
+    -   [linter-js-standard](https://atom.io/packages/linter-js-standard)
+    -   [standardjs-snippets](https://atom.io/packages/standardjs-snippets)
 -   Als je je code onder versiecontrole wil plaatsen, heb je git nodig de makkelijkste manier om git te gebruiken op je systeem is met [Github Desktop.](https://desktop.github.com/)
 -   De eenvoudigste manier om je website gratis te publiceren is ook via [Github](http://github.com).
 
@@ -45,8 +48,9 @@ De eenvoudigste manier om deze code te gebruiken is het zip-bestand downloaden e
 
 ## Referenties
 
--   [EditorConfig](http://editorconfig.org/)
--   [JS Beautify](https://github.com/beautify-web/js-beautify)
+-   [EditorConfig](http://editorconfig.org/) gebruiken we om de standaard afspraken over indents, character sets, newlines … te forceren.
+-   [JS Beautify](https://github.com/beautify-web/js-beautify) gebruiken we voor HTML en inline CSS/JavaScript.
+-   [JavaScript Standard Style](https://standardjs.com/) is de moderne manier om JavaScript te schrijven.
 
 ## Meewerken aan de template
 
