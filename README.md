@@ -45,7 +45,7 @@ De eenvoudigste manier om deze code te gebruiken is het zip-bestand downloaden e
 
 ## Referenties
 
-[TODO]
+-   [EditorConfig](http://editorconfig.org/)
 
 ## Meewerken aan de template
 
