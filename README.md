@@ -16,7 +16,7 @@ Je kan deze template gebruiken als startpunt voor al je 'platte' websites die ge
     -   [atom-standard-formatter](https://atom.io/packages/standard-formatter) met `Format On Save` geactiveerd.
     -   [editorconfig](https://atom.io/packages/editorconfig)
     -   [linter](https://atom.io/packages/linter)
-    -   [linter-htmlhint](https://atom.io/packages/linter)
+    -   [linter-htmlhint](https://atom.io/packages/linter-htmlhint)
     -   [linter-stylelint](https://atom.io/packages/linter-stylelint)
     -   [linter-js-standard](https://atom.io/packages/linter-js-standard)
     -   [standardjs-snippets](https://atom.io/packages/standardjs-snippets)
