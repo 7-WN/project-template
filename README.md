@@ -8,6 +8,9 @@ Je kan deze template gebruiken als startpunt voor al je 'platte' websites die ge
 
 ### Vereisten
 
+-   Voor een aantal paketten heb je [nodejs](https://nodejs.org/) nodig. Volg de link en installeer het juiste pakket voor je systeem.
+-   Je hebt ook [JavaScript Standard Style](https://standardjs.com/index.html#install) nodig. Voer het volgende commando in je nodejs command line in: `npm install standard --global`
+
 -   Je moet een degelijke, moderne text editor gebruiken. Wij gebruiken [Atom](https://atom.io/) met minimaal de volgende plugins of packages geïnstalleerd:
     -   [atom-beautify](https://atom.io/packages/atom-beautify) met `Beautify on Save` geactiveerd voor CSS, HTML, Markdown en SCSS. Voor CSS en SCSS selecteer je `CSScomb` als `Default Beautifier`, voor  Markdown selecteer je `Remark`.
     -   [atom-standard-formatter](https://atom.io/packages/standard-formatter) met `Format On Save` geactiveerd.
@@ -27,8 +30,9 @@ De eenvoudigste manier om deze code te gebruiken is het zip-bestand downloaden e
 
 1.  Download [het zip-bestand met de laatste versie.](https://github.com/7-WN/website-template/archive/master.zip)
 2.  Pak het zip-bestand uit naar je werkmap en geef de uitgepakte map een duidelijke naam.
-3.  Verwijder het bestand README.md en hernoem README.md.template naar README.md.
-4.  Vul je nieuwe README.md bestand aan met de gegevens voor je project.
+3.  [TODO: gebruik een npm install script om README om te vormen]
+4.  Verwijder het bestand README.md en hernoem README.md.template naar README.md.
+5.  Vul je nieuwe README.md bestand aan met de gegevens voor je project.
 
 ## De template gebruiken
 
