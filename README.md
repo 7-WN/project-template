@@ -48,6 +48,8 @@ De eenvoudigste manier om deze code te gebruiken is het zip-bestand downloaden e
 
 [TODO]
 
+1.  Vervang de verscheiden _favicons_ door afbeeldingen van hetzelfde formaat. [FAV-ICO-MATIC](http://www.favicomatic.com/) kan een hele hulp zijn. Hier is de ‘obsessive setting’ gebruikt.
+
 ## Je code onder versiecontrole plaatsen (met git en Github)
 
 [TODO]
