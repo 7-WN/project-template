@@ -9,7 +9,8 @@ Je kan deze template gebruiken als startpunt voor al je 'platte' websites die ge
 ### Vereisten
 
 -   Voor een aantal paketten heb je [nodejs](https://nodejs.org/) nodig. Volg de link en installeer het juiste pakket voor je systeem.
--   Je hebt ook [JavaScript Standard Style](https://standardjs.com/index.html#install) nodig. Voer het volgende commando in je nodejs command line in: `npm install -g standard stylelint stylefmt stylelint-config-standard stylelint-config-idiomatic-order`
+-   Je hebt [JavaScript Standard Style](https://standardjs.com/index.html#install) nodig en [Stylelint](https://stylelint.io/) nodig. Voer het volgende commando in je nodejs command line in: `npm install -g standard stylelint stylefmt`
+-   Om de standaard configuraties te kunnen gebruiken, voer je dit commando in je nodejs command line in: `npm install stylelint-order stylelint-config-standard stylelint-config-idiomatic-order`.
 
 -   Je moet een degelijke, moderne text editor gebruiken. Wij gebruiken [Atom](https://atom.io/) met minimaal de volgende plugins of packages geïnstalleerd:
     -   [atom-beautify](https://atom.io/packages/atom-beautify) met `Beautify on Save` geactiveerd voor HTML, JSON en Markdown. Voor  Markdown selecteer je `Remark` als Default Beautifier. Voor JavaScript selecteer je `Disable Beautifying Language`.
