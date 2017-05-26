@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /bower_components/
+Disallow: /node_modules/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: .*rc
