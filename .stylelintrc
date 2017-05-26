@@ -1,0 +1,33 @@
+{
+  "extends": ["stylelint-config-standard", "stylelint-config-idiomatic-order"],
+  "rules": {
+    "font-family-name-quotes": "always-where-recommended",
+    "font-weight-notation": "named-where-possible",
+    "function-url-quotes": "always",
+    "number-max-precision": 4,
+    "number-no-trailing-zeros": true,
+    "string-quotes": "single",
+    "time-min-milliseconds": 100,
+    "value-keyword-case": "lower",
+    "declaration-no-important": [true, {
+      "severity": "warning"
+    }],
+    "selector-max-compound-selectors": [3, {
+      "severity": "warning"
+    }],
+    "selector-no-id": [true, {
+      "severity": "warning"
+    }],
+    "selector-no-qualifying-type": [true, {
+      "severity": "warning"
+    }],
+    "max-nesting-depth": [2, {
+      "severity": "warning"
+    }],
+    "no-duplicate-selectors": [true, {
+      "severity": "warning"
+    }],
+    "no-unknown-animations": true
+  },
+  "defaultSeverity": "error"
+}

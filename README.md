@@ -9,15 +9,16 @@ Je kan deze template gebruiken als startpunt voor al je 'platte' websites die ge
 ### Vereisten
 
 -   Voor een aantal paketten heb je [nodejs](https://nodejs.org/) nodig. Volg de link en installeer het juiste pakket voor je systeem.
--   Je hebt ook [JavaScript Standard Style](https://standardjs.com/index.html#install) nodig. Voer het volgende commando in je nodejs command line in: `npm install standard stylelint --global`
+-   Je hebt ook [JavaScript Standard Style](https://standardjs.com/index.html#install) nodig. Voer het volgende commando in je nodejs command line in: `npm install -g standard stylelint stylefmt stylelint-config-standard stylelint-config-idiomatic-order`
 
 -   Je moet een degelijke, moderne text editor gebruiken. Wij gebruiken [Atom](https://atom.io/) met minimaal de volgende plugins of packages geïnstalleerd:
-    -   [atom-beautify](https://atom.io/packages/atom-beautify) met `Beautify on Save` geactiveerd voor CSS, HTML, Markdown en SCSS. Voor CSS en SCSS selecteer je `CSScomb` als `Default Beautifier`, voor  Markdown selecteer je `Remark`. Voor JavaScript selecteer je `Disable Beautifying Language`.
-    -   [atom-standard-formatter](https://atom.io/packages/standard-formatter) met `Format On Save` geactiveerd.
+    -   [atom-beautify](https://atom.io/packages/atom-beautify) met `Beautify on Save` geactiveerd voor HTML, JSON en Markdown. Voor  Markdown selecteer je `Remark` als Default Beautifier. Voor JavaScript selecteer je `Disable Beautifying Language`.
+    -   [atom-standard-formatter](https://atom.io/packages/standard-formatter) en activeer `Format On Save` in de package settings.
+    -   [stylefmt](https://atom.io/packages/stylefmt) en activeer `Format on Save` in de package settings.
     -   [editorconfig](https://atom.io/packages/editorconfig)
     -   [linter](https://atom.io/packages/linter)
     -   [linter-htmlhint](https://atom.io/packages/linter-htmlhint)
-    -   [linter-stylelint](https://atom.io/packages/linter-stylelint)
+    -   [linter-stylelint](https://atom.io/packages/linter-stylelint) vink `Disable when no config file is found` uit en selecteer `Use standard`.
     -   [linter-js-standard](https://atom.io/packages/linter-js-standard)
     -   [standardjs-snippets](https://atom.io/packages/standardjs-snippets)
 -   Als je je code onder versiecontrole wil plaatsen, heb je git nodig de makkelijkste manier om git te gebruiken op je systeem is met [Github Desktop.](https://desktop.github.com/)
