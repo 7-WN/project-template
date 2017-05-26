@@ -1,3 +1,4 @@
+// TODO: Regels van stylelint-config-standard en stylelint-config-idiomatic-order toevoegen zodat extends niet nodig zijn en er niets lokaal geïnstalleerd moet worden met npm
 {
   "plugins": "stylelint-order",
   "extends": ["stylelint-config-standard", "stylelint-config-idiomatic-order"],
